@@ -6,8 +6,8 @@
 - 
 - :books: I'm currently on the 3rd year of BS in Software Engineer 
 - 
-- :seedling: I'm currently learning JAVA, C++, MYSQL, HTML, CSS...
+- :seedling: Languages: JAVA, C++, MYSQL, HTML, CSS, JavaScript..
 -
-- :speech_balloon: I can speak Portuguese, English and Japanese.
+- :speech_balloon: I speak Portuguese, English and basic Japanese.
 
 Find me on: [LinkedIn](https://www.linkedin.com/in/mirelahangai/), [Twitter](https://www.twitter.com/mihkry)
